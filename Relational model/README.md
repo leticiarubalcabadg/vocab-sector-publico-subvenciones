@@ -57,7 +57,7 @@ La figura muestra las clases y propiedades del vocabulario de los eventos de la 
 
 ## DIAGRAMA ENTIDAD RELACIÓN DE LAS TABLAS]<a name="id33"></a>
 &nbsp;
-![Diagrama entidad relacion](/SubvencionEntidad.png)
+![Diagrama entidad relacion](SubvencionEntidad.png)
 &nbsp;
 
 
