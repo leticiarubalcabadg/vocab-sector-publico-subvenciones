@@ -39,7 +39,7 @@
 
 Este documento contiene la información detallada del modelo de datos asociado al vocabulario de los convenios. A continuación, se detallan los enlaces de interés asociados a este vocabulario:
 
-- *[Documentación]http://vocab.ciudadesabiertas.es/def/sector-publico/subvenciones/index-es.html)*
+- *[Documentación](http://vocab.ciudadesabiertas.es/def/sector-publico/subvenciones/index-es.html)*
 - *[Repositorio](https://github.com/CiudadesAbiertas/vocab-sector-publico-subvenciones)*
 - *[Requisitos](https://github.com/CiudadesAbiertas/vocab-sector-publico-subvenciones/tree/main/requirements)*
 - *[Issues](https://github.com/CiudadesAbiertas/vocab-sector-publico-subvenciones/issues)*
@@ -51,13 +51,13 @@ Este documento contiene la información detallada del modelo de datos asociado a
 La figura muestra las clases y propiedades del vocabulario de los eventos de la agenda municipal y sus participantes.   
 
 &nbsp;
-![Diagrama conceptual]()
+![Diagrama conceptual]("https://opencitydata.github.io/vocab-sector-publico-subvenciones/docs/resources/images/modeloConceptual.png")
 &nbsp;
 
 
 ## DIAGRAMA ENTIDAD RELACIÓN DE LAS TABLAS]<a name="id33"></a>
 &nbsp;
-![Diagrama entidad relacion]()
+![Diagrama entidad relacion]("/SubvencionEntidad.png")
 &nbsp;
 
 
